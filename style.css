@@ -1,0 +1,200 @@
+.div1{
+    height: 60px;
+margin: 0px;
+    background-color:#548fee;
+    
+}
+p{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.img1{
+    width: 40px;
+    position: absolute;
+    top: 25px;
+    left: 70px;
+}
+.img{
+    width: 50px;
+    position: absolute;
+    top: 20px;
+    left: 120px;
+}
+.img3{
+
+    width: 40px;
+    position: absolute;
+    top: 25px;
+    left: 180px;
+    
+}
+.img4{
+    
+    width: 40px;
+    position: absolute;
+    top: 25px;
+    left: 240px;
+    
+}
+.button1{
+    border: 1px solid plum;
+    width: 80px;
+    position: absolute;
+    top: 25px;
+    right: 320px;
+    padding: 5px;
+}
+.button2{
+    border: 1px solid plum;
+    width: 100px;
+    position: absolute;
+    top: 25px;
+    right: 200px;
+    padding: 5px;
+}
+.button3{
+    border: 1px solid plum;
+    width: 100px;
+    position: absolute;
+    top: 25px;
+    right: 80px;
+    padding: 5px;
+}
+#navbar {
+    overflow: hidden;
+    background-color:white;
+    position: absolute;
+    right: 80px;
+  }
+  #navbar a {
+      
+    float: right;
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    display: block;
+  }
+  .content {
+    padding: 16px;
+  }
+  .second{
+    position: absolute;
+    top: 80px;
+    left: 20px;
+  }
+  .main{
+      width: 1108;
+      height: 447;
+  }
+.img6{
+    width: 100%;
+    margin: 60px auto ;
+
+
+  }
+  .saylani{
+      text-align: center;
+  }
+  .img7{
+    width: 400px;
+    height: 80px;
+    
+}
+.paragraph{
+    width: 1000px;
+   margin: auto;
+}
+.paragraph>p{
+    color: #666666;;
+    font-family: 'Open Sans', sans-serif;
+     line-height: 1.9;
+        font-size: 15px;
+        text-align: justify;
+
+    
+    }
+    .human{
+        widows: 993px;
+        height: 340px;
+        background-color: #0251cf;
+   
+    }
+    .imghuman{
+        width: 40px;
+        height: 40px;
+        background-color: blue;
+      margin: 90px 140px auto 140px;
+   
+    }
+    .numbers{
+        color:white;
+        position: absolute;
+        top: 1700px;
+        left: 140px;
+     
+    }
+    .numberss{
+        color:white;
+        position: absolute;
+        top: 1700;
+        left: 450px;
+     
+    }
+    .numbersss{
+        color:white;
+        position: absolute;
+        top: 1700px;
+        left: 800px;
+     
+    }
+    .numberssss{
+        color:white;
+        position: absolute;
+        top: 1700px;
+        left: 1100px;
+     
+    }
+    .paraa{
+        color: white;
+        position: absolute;
+        top: 1740px;
+        left: 40px;
+
+    }
+    .paraaa{
+        color: white;
+        position: absolute;
+        top: 1740px;
+        left: 380px;
+
+    }
+    .paraaaa{
+        color: white;
+        position: absolute;
+        top: 1740px;
+        left: 740px;
+
+    }
+    .paraaaaa{
+        color: white;
+        position: absolute;
+        top: 1740px;
+        left: 1050px;
+    }
+    
+
+    
+    .diva{
+        display: inline;
+        border: 2px solid black;
+       position: relative;
+       top: 50px;
+       left: 50px;
+    }
+    .maindiv{
+        border: blue;
+    }
+   
